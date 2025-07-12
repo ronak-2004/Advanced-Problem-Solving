@@ -12,4 +12,7 @@
 
 If a number `X` has the prime factorization:
 
+$X = p_1^{e_1} \times p_2^{e_2} \times \dots \times p_k^{e_k}$
+
+
 
