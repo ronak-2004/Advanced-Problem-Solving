@@ -33,7 +33,7 @@ So we want to:
 
 ### ✅ Step-by-Step Plan
 
-1. **Factorize `N`** as a product of integers ≥ 2 → these will become `(ei + 1)` in solution these factors are [x1,x2,x3....]
+1. **Factorize `N`** as a product of integers ≥ 2 → these will become `(ei + 1)` in solution these factors are `[x1 ,x2 ,x3 ....]`
 2. Subtract 1 from each factor → this gives us the exponent list `e1, e2, ...`
 3. **Sort exponents in descending order**
 4. Assign **smallest primes to largest exponents** (greedy strategy)
