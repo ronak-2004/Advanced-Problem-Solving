@@ -95,7 +95,7 @@ So we want to:
 
 **Author:** Ronak Ganesh Sawant  
 📌 BTech CSE @ VIT Vellore  
-📧 ronaksawant.dev@gmail.com
+📧 ronsawant1@gmail.com
 
 
 
